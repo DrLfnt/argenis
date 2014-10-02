@@ -9,7 +9,18 @@
 	color: #008B8B;
 }
 /* Selectores al subrayar */
-
+header {
+	margin-bottom: -1em;
+	padding: 0;
+}
+article {
+	margin: 0;
+	padding: 0;
+}
+p {
+	margin: 0;
+	padding: 0;
+}
 .Contenedor {
 	max-width: 100%;
 	background-size: cover;
@@ -23,31 +34,38 @@
 .H1-textCenter {
 	text-align: center;
 }
-
 .Cuerpo {
 	max-height: 100%;
-	margin-top: -1em;
-	padding: 1em 2em;
+	margin: 0;
+	padding: 0;
 }
-
-.Cuadrados-cuadradosperfectos {
-	max-width: 25%;
-	max-height: 25%;
-
+.Cuerpo-caja100 {
+	display: inline-block;
+	max-width: 100%;
+	margin: 0;
+	padding: 1em;
 }
-
+.Cuerpo-caja50 {
+	display: inline-block;
+	max-width: 30%;
+	margin: 0 -1em 0 0;
+	padding: 1em;
+}
+.Cuerpo-caja20 {
+	display: inline-block;
+	max-width: 20%;
+	margin: 0;
+	padding: 1em;
+}
 .text-alignCenter {
 	text-align: center;
 }
-
 .font-sizeLarge {
 	font-size: large;
 }
-
 a {
 	text-decoration: none;
 }
-
 .Image-imageHeader {
 	max-width: 5em;
 	margin-top: 1.2em;
