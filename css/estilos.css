@@ -8,6 +8,10 @@
 	background: transparent;
 	color: #008B8B;
 }
+
+.hidden {
+	display: none;
+}
 /* Selectores al subrayar */
 header {
 	margin-bottom: -1em;
