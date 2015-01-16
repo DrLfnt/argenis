@@ -1,14 +1,14 @@
 /* Menu Circular*/
 .circular-menu {
-	width: 250px;
-	height: 250px;
+	width: 200px;
+	height: 200px;
 	margin: 0 auto;
 	position: relative;
 }
 
 .circle {
-	width: 250px;
-	height: 250px;
+	width: 200px;
+	height: 200px;
 	opacity: 0;
 	-webkit-transform: scale(0);
 	-moz-transform: scale(0);
