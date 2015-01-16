@@ -1,3 +1,11 @@
+@import url('normalize.css');
+@import url('estilos.css');
+@import url('colores.css');
+@import url('http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css');
+@import url('menu.css');
+@import url('animaciones.css');
+@import url('lightbox.css');
+
 html {
 	-webkit-font-smoothing: antialiased;
 	-webkit-overflow-scrolling: touch;
