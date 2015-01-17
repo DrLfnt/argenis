@@ -1,6 +1,7 @@
 @import url('normalize.css');
 @import url('estilos.css');
 @import url('colores.css');
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css');
 @import url('http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css');
 @import url('menu.css');
 @import url('animaciones.css');
@@ -12,7 +13,7 @@ html {
 }
 body {
 	margin:0;	
-	font:14px/1.2 sans-serif;
+	font:16px/1.2 sans-serif;
 	color:#fff;
 	min-width:320px;
 	-webkit-text-size-adjust: 100%;
@@ -66,7 +67,6 @@ footer, header, hgroup, menu, nav, section {
 	overflow:hidden;
 }
 .section {
-	background:#f4f3ef;
 	color: teal;
 	text-align:center;
 	padding:70px 0 62px;
