@@ -59,7 +59,16 @@ p {
 	padding-top: 2.22em;
 	max-width: 100%;
 }
+body header h1 {
+	font-family: 'Roboto';
+	font-weight: bold !important;
+}
+section div h2, span, p, ul {
+	font-family: 'Roboto';
+	font-weight: bold !important;
+}
 .H1-textCenter {
+	font-weight: lighter;
 	text-align: center;
 }
 .text-alignCenter {
